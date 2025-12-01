@@ -1,0 +1,5 @@
+aiogram==2.27.1
+python-dotenv==1.0.0
+redis==4.5.5
+rq==1.14.1
+requests==2.31.0
